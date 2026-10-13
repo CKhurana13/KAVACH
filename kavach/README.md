@@ -159,19 +159,14 @@ Python · NumPy · SciPy · scikit-learn · pandas · Streamlit · Altair
 
 ## 👥 Team ByteBots
 
-| Name | Role |
-|------|------|
-| _Your Name_ | _Role_ |
-| _Teammate 2_ | _Role_ |
-| _Teammate 3_ | _Role_ |
-
-*(Fill in your team members before pushing.)*
+Cheshta Khurana
+Raghav Tayal
 
 ---
 
 ## 📜 License
 
-Released under the [MIT License](LICENSE). *(Add a `LICENSE` file, or change this line if you prefer another license.)*
+Released under the [MIT License](LICENSE).
 
 ## ⚠️ Disclaimer
 
