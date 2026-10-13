@@ -155,6 +155,24 @@ The demo runs in-process instead of using Kafka/Redpanda. To add a real broker, 
 
 Python · NumPy · SciPy · scikit-learn · pandas · Streamlit · Altair
 
+---
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+## 👥 Contributors
+
+- **Cheshta Khurana**
+- **Raghav Tayal**
+
+## 📞 Contact
+
+For questions or support, please open an issue on GitHub.
+
+---
+
+**Note**: This project is for educational and privacy awareness purposes. Always review the code and understand what data is being collected before using any privacy tool.
+
 
