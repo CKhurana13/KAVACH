@@ -4,7 +4,7 @@
 
 KAVACH detects cyber threats in **unidirectional (data-diode / passive-mirror) IP traffic**, where the monitor can only *listen* and never talk back. It runs **six lightweight, parallel detectors** and a **rule-based correlation engine** that links weak signals into a single kill-chain alert, all shown on a live Streamlit dashboard.
 
-> **Note:** This is a working demo pipeline. It uses a **synthetic traffic generator** (no real PCAP or dataset was available). Every detector runs a real algorithm on real feature vectors, not canned output. See [Going from demo to real traffic](#-going-from-demo-to-real-traffic).
+> **Note:** This is a working demo pipeline. It uses a **synthetic traffic generator** (no real PCAP or dataset was available). Every detector runs a real algorithm on real feature vectors, not canned output. 
 
 ---
 
@@ -155,24 +155,7 @@ The demo runs in-process instead of using Kafka/Redpanda. To add a real broker, 
 
 Python · NumPy · SciPy · scikit-learn · pandas · Streamlit · Altair
 
----
-
-## 👥 Team ByteBots
-
-| Name | Role |
-|------|------|
-| _Your Name_ | _Role_ |
-| _Teammate 2_ | _Role_ |
-| _Teammate 3_ | _Role_ |
-
-*(Fill in your team members before pushing.)*
 
 ---
 
-## 📜 License
-
-Released under the [MIT License](LICENSE). *(Add a `LICENSE` file, or change this line if you prefer another license.)*
-
-## ⚠️ Disclaimer
-
-KAVACH is a research and hackathon prototype built on synthetic data. It is not production-ready and has not been validated against real-world traffic.
+orld traffic.
